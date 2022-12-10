@@ -3,8 +3,8 @@
 <h1>A little bit about me</h1>
 
 - 🌱 I’m currently learning **Golang**
-- 🤝 I’m looking to colaborate in **Frontend projects**
-- 📝 I regularly write articles on [Dev.to](https://dev.to/techwithmat)
+- 🤝 I'm looking to collaborate on **Frontend projects**
+- 📝 I regularly write articles on [dev.to](https://dev.to/techwithmat)
 
 <h2>⚡ Languages & Frameworks</h2>
 
