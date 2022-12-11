@@ -6,6 +6,6 @@
 - 🤝 I'm looking to collaborate on **Frontend projects**
 - 📝 I regularly write articles on [dev.to](https://dev.to/techwithmat)
 
-<h2>⚡ Languages & Frameworks</h2>
+<h2>Languages & Frameworks</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,tailwind,nodejs,react,golang,docker,mysql&theme=dark)](https://skillicons.dev)
