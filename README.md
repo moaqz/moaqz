@@ -8,4 +8,4 @@
 
 <h2>Languages & Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,tailwind,nodejs,react,golang,docker,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,tailwind,nodejs,react,golang,docker,postgres&theme=dark)](https://skillicons.dev)
