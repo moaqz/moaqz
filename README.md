@@ -1,5 +1,3 @@
-<img src="./images/banner.png" alt="banner">
-
 <h1>A little bit about me</h1>
 
 - 🌱 I’m currently learning **Golang**
