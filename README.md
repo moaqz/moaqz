@@ -1,6 +1,6 @@
 <h1>A little bit about me</h1>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Go**
 - 🤝 I'm looking to collaborate on **Frontend projects**
 <!-- - 📝 I regularly write articles on [dev.to](https://dev.to/techwithmat) -->
 
