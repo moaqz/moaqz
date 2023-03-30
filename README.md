@@ -1,9 +1,9 @@
-<h1>A little bit about me</h1>
+# 💡 A little bit about me
 
-- 🌱 I’m currently learning **Go**
-- 🤝 I'm looking to collaborate on **Frontend projects**
-<!-- - 📝 I regularly write articles on [dev.to](https://dev.to/techwithmat) -->
+Hi, I'm Mateo a full-stack developer based in Argentina. I'm new to the software development industry and eager to learn as much as I can about building modern web applications.
 
-<h2>Languages & Frameworks</h2>
+Currently, I'm focusing on learning more about cloud computing and AWS services like Lambda and EC2. I'm also exploring serverless architectures and their potential applications in modern web development.
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,tailwind,golang,docker,postgres&theme=dark)](https://skillicons.dev)
+## 🔧 My current stack for building applications is
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,postgres,docker,golang,aws&theme=dark)](https://skillicons.dev)
