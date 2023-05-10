@@ -1,6 +1,8 @@
 # 💡 A little bit about me
 
-I'm a full-stack developer based in Argentina. I'm learning as much as I can about building modern web applications. Currently, I'm focusing on learning more about cloud computing and AWS services like Lambda and EC2. I'm also exploring serverless architectures.
+* I'm a full-stack developer based in Argentina. 
+* I'm currently learning about **AWS**.
+* You can reach me at  **gmjonsales@gmail.com **
 
 ## 🔧 My current stack for building applications is
 
