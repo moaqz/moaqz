@@ -1,10 +1,14 @@
-# A little bit about me
+<h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 I'm a full-stack developer based in Argentina, passionate about building web applications. Currently, I'm learning about **AWS**.
 
-## 🔧 My current stack for building applications
+## 👨‍💻 Professional Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,golang,postgres,docker&theme=dark)](https://skillicons.dev)
+-  **BackEnd:**  NodeJS (TypeScript, JavaScript), Go
+-  **Cloud:**  Amazon Web Services (AWS)
+-  **DevOps:**  Docker
+-  **FrontEnd:**  React, Next.js, Svelte
+-  **Database:** Relational Database (SQL, PostgreSQL) / Redis
 
 ## 🚀 My Latest Projects
 
