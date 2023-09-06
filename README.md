@@ -1,14 +1,12 @@
-### Hi there. I’m Mateo, a developer passionate about the web 👋
+### Hi there 👋 I'm Mateo Gonzalez
 
-### 👨‍💻 Professional Skills
+> Full-stack Developer
 
--  **BackEnd:**  NodeJS (TypeScript, JavaScript), Go
--  **Cloud:**  Amazon Web Services (AWS)
--  **DevOps:**  Docker
--  **FrontEnd:**  React, Next.js, Svelte
--  **Database:** Relational Database (SQL, PostgreSQL) / Redis
+### Tech Stack
 
-### 🚀 My Latest Projects
+[![My Skills](https://skillicons.dev/icons?i=js,go,react,postgresql,docker,svelte,redis)](https://skillicons.dev)
+
+### Latest Projects
 
 - **[Fira](https://fira.vercel.app/)** - A poll maker built with Next.js and TypeScript.
 - **[Bookstore API](https://github.com/moaqz/bookstore-api/)** - An API for managing books and authors.
